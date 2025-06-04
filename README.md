@@ -1,2 +1,2 @@
-# introduction
-## project notes
+# only for testing & practicing
+
